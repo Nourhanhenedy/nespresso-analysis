@@ -1,4 +1,4 @@
-**☕ Nespresso Sales Analysis Dashboard (2025-2026)**
+ # **☕ Nespresso Sales Analysis Dashboard (2025-2026)**
 
 This repository contains a comprehensive Power BI Dashboard analyzing
 
