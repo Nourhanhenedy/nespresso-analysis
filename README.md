@@ -71,17 +71,27 @@ $105.59 (2025) vs $1.33 (Units/Frequency per customer).
 
 Order volume is highest on Saturdays and Mondays, dropping significantly toward Thursdays.
 
-🛠️ Technical Stack
-Tool: Power BI Desktop
 
-Data Modeling: Star Schema (implied by the Date, Customer, and Sales tables).
+******************************************************************************
 
-DAX Measures used:
 
-MOM (Month-over-Month growth): Current value at 31.88%.
 
-AOV (Average Order Value).
+## 🛠️ Technical Stack
 
-Top 20% Revenue (Pareto Analysis).
+### Tool 
 
-Customer Returning Rate.
+### Power BI Desktop
+
+#### Data Modeling
+
+Star Schema (implied by the Date, Customer, and Sales tables).
+
+#### DAX Measures used
+
+##### MOM (Month-over-Month growth): Current value at 31.88%.
+
+##### AOV (Average Order Value).
+
+##### Top 20% Revenue (Pareto Analysis).
+
+##### Customer Returning Rate.
