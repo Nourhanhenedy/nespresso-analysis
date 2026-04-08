@@ -95,3 +95,13 @@ Star Schema (implied by the Date, Customer, and Sales tables).
 ##### Top 20% Revenue (Pareto Analysis).
 
 ##### Customer Returning Rate.
+
+******************************************************************************
+## Dashboard Preview
+
+<img width="1331" height="745" alt="nespresso analysis report 4_3_2026 10_06_55 PM" src="https://github.com/user-attachments/assets/a3fb284f-a26c-44b3-b750-c1c7e9689335" />
+
+
+<img width="1324" height="741" alt="nespresso analysis report 4_3_2026 10_06_09 PM - Copy" src="https://github.com/user-attachments/assets/30fa7304-b395-40e5-aa83-aa561d1a9de9" />
+
+
