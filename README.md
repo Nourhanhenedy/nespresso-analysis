@@ -99,9 +99,10 @@ Star Schema (implied by the Date, Customer, and Sales tables).
 ******************************************************************************
 ## Dashboard Preview
 
-<img width="1331" height="745" alt="nespresso analysis report 4_3_2026 10_06_55 PM" src="https://github.com/user-attachments/assets/a3fb284f-a26c-44b3-b750-c1c7e9689335" />
 
 
-<img width="1324" height="741" alt="nespresso analysis report 4_3_2026 10_06_09 PM - Copy" src="https://github.com/user-attachments/assets/30fa7304-b395-40e5-aa83-aa561d1a9de9" />
+<img width="1341" height="746" alt="nespresson dashboard" src="https://github.com/user-attachments/assets/5a2f84d5-3a1d-423d-812c-24bff420af4b" />
+
+
 
 
